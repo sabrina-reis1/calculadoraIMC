@@ -1,0 +1,13 @@
+C:\Users\Samsung\OneDrive\calculadoraIMC\obj\Debug\netcoreapp2.1\calculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\calculadoraIMC\obj\Debug\netcoreapp2.1\calculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\calculadoraIMC\obj\Debug\netcoreapp2.1\calculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\calculadoraIMC\obj\Debug\netcoreapp2.1\calculadoraIMC.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\calculadoraIMC\obj\Debug\netcoreapp2.1\calculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\calculadoraIMC\bin\Debug\netcoreapp2.1\calculadoraIMC.deps.json
+C:\Users\Samsung\OneDrive\calculadoraIMC\bin\Debug\netcoreapp2.1\calculadoraIMC.runtimeconfig.json
+C:\Users\Samsung\OneDrive\calculadoraIMC\bin\Debug\netcoreapp2.1\calculadoraIMC.runtimeconfig.dev.json
+C:\Users\Samsung\OneDrive\calculadoraIMC\bin\Debug\netcoreapp2.1\calculadoraIMC.dll
+C:\Users\Samsung\OneDrive\calculadoraIMC\bin\Debug\netcoreapp2.1\calculadoraIMC.pdb
+C:\Users\Samsung\OneDrive\calculadoraIMC\obj\Debug\netcoreapp2.1\calculadoraIMC.dll
+C:\Users\Samsung\OneDrive\calculadoraIMC\obj\Debug\netcoreapp2.1\calculadoraIMC.pdb
+C:\Users\Samsung\OneDrive\calculadoraIMC\obj\Debug\netcoreapp2.1\calculadoraIMC.genruntimeconfig.cache
