@@ -6,6 +6,7 @@ namespace calculadoraIMC
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Qual o seu nome?");
             string Nome = Console.ReadLine();
 
@@ -15,10 +16,15 @@ namespace calculadoraIMC
             Console.WriteLine("Qual o seu peso em Kg? Ex: 59,3");
             float Peso = Convert.ToSingle(Console.ReadLine());
 
-            double imc = peso / (altura * altura);
+            double imc = Peso / (Altura * Altura);
+            
+            Pessoa p1 = new Pessoa (Nome, Altura, Peso);
 
-            Console.WriteLine("{0}, sua altura é {1} e seu peso é {2} Kg", nome, altura, peso);
-            Console.WriteLine("Seu IMC é {0}", imc);
+            Console.WriteLine("{0}, sua altura é {1} e seu peso é {2} Kg", p1.Nome, p1.Altura, p1.Peso);
+            Console.WriteLine("Seu IMC é {0}", p1.imc);
+
+
+            Console.WriteLine(p1.situacaoPessoa());
         }
     }
 }
